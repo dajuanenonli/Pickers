@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DoubleComponentPickerViewController.h
 //  Pickers
 //
 //  Created by Student on 7/21/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
-
+@interface DoubleComponentPickerViewController : UIViewController
 
 @end
-

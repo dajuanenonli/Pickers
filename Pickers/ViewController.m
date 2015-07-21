@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic, weak) UIPickerView *singlePicker;
+
 @end
 
 @implementation ViewController
